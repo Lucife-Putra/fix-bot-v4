@@ -24,7 +24,7 @@ if (!args[0]) throw `Use example ${usedPrefix}${command} https://www.tiktok.com/
 ────────── ⇆ㅤ◁ㅤ ❚❚ㅤ ▷ㅤ↻ ──────────
 *Nickname:* ${nickname}
 *Description:* ${description}
-_©WH-MODS-BOT-V1🍭_
+_©KaylaBotz🍭_
 `.trim(), m)
 }
 catch {
@@ -62,7 +62,7 @@ let p = await tiktok(args[0])
 *Nickname:* ${p.dev}
 *Description:* ${p.description}
 *Url:* ${p.url}
-_©WH-MODS-BOT-V1🍭_
+_©KaylaBotz🍭_
 `.trim()
 conn.send2ButtonVid(m.chat, p.link, cap, author, `Donasi`, `.donasi`, `Audio`, `.tta ${args[0]}`, fakes, adReply)
 } catch (e) {
@@ -93,7 +93,7 @@ Ketik ulang *${usedPrefix + command}* teks anda untuk mengubah teks lagi
 🚀 : Makanya bantu donasi buat support + beli apikey unlimited bjir :v
 
 Donasi :
-Nomor Developer : wa.me/6282127487538
+Nomor Developer : wa.me/6282214729677
 Nomor Owner Bot : wa.me/${nomorown}`
 
 // yang hapus nomor developer mudah-mudahan banyak crash
